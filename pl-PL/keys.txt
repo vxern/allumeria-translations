@@ -1,0 +1,671 @@
+item.copper_pickaxe Miedziany kilof
+item.copper_sword Miedziany miecz
+item.copper_axe Miedziana siekiera
+item.copper_ingot Sztabka miedzi
+item.iron_ingot Sztabka żelaza
+item.health_potion Mikstura zdrowia
+item.empty Puste
+item.stone Kamień
+item.unknown Nieznany przedmiot
+item.dirt Ziemia
+item.grass Trawa
+item.planks Deski
+item.water Woda (stara)
+item.sand Piasek
+item.lamp_warm Ciepła lampa
+item.lamp_white Biała lampa
+item.lamp_blue Niebieska lampa
+item.lava Lawa (stara)
+item.blockMetaDataTest Blok do testowania metadanych
+item.log Pień
+item.leaves Liście
+item.grass_tall Wysoka trawa
+item.workbench Stół rzemieślniczy
+item.workbench.desc Umożliwia tworzenie bardziej złożonych przedmiotów.
+item.worldBorder Granica świata
+item.worldBorder.desc Jeśli udało Ci się zdobyć ten przedmiot, to albo oszukujesz, albo moja gra się popsuła. ):
+item.copper_ore Ruda miedzi
+item.copper_ore.desc Można z niej wytopić sztabki.
+item.iron_ore Ruda żelaza
+item.iron_ore.desc Można z niej wytopić sztabki.
+item.coal_ore Złoże węgla
+item.furnace Piec
+item.glowing_mushroom Połyskujący grzyb
+item.torch Pochodnia
+item.crate Skrzynia
+item.stone_brick Cegła z kamienia
+item.glass Szkło
+item.stone_brick_small Cegiełka z kamienia
+item.clay Glina
+item.clay_brick_small Cegiełka z gliny
+item.copper_plated_stone Kamień obity miedzią
+item.iron_plated_stone Kamień obity żelazem
+item.flint_pickaxe Krzemienny kilof
+item.flint_sword Krzemienny miecz
+item.flint_axe Krzemienna siekiera
+item.core Rdzeń
+item.flint Krzemień
+item.iron_pickaxe Żelazny kilof
+item.iron_sword Żelazny miecz
+item.iron_axe Żelazna siekiera
+item.red_mushroom Czerwony grzyb
+item.allumerium_ore Ruda alumeru
+item.chest Kufer
+item.silver_pickaxe Srebrny kilof
+item.silver_sword Srebrny miecz
+item.silver_axe Srebrna siekiera
+item.gold_pickaxe Złoty kilof
+item.gold_sword Złoty miecz
+item.gold_axe Złota siekiera
+item.silver_ingot Sztabka srebra
+item.gold_ingot Sztabka złota
+item.sandstone Piaskowiec
+item.snow Śnieg
+item.ice Lód
+item.silver_ore Ruda srebra
+item.gold_ore Ruda złota
+item.silver_plated_stone Kamień obity srebrem
+item.gold_plated_stone Kamień obity złotem
+item.sandstone_brick Cegła z piaskowca
+item.snow_brick Cegła ze śniegu
+item.stone_block Blok kamienia
+item.lamp_red Czerwona lampa
+item.lamp_green Zielona lampa
+item.flint_hammer Krzemienny młot
+item.flint_hammer.desc Zmienia kształt bloków.
+item.bagel Bajgiel
+item.everything_bagel Wszechbajgiel
+item.everything_bagel.desc Stanowi jedność ze wszystkim.
+item.blueberry Borówka
+item.birch_log Pień brzozy
+item.maple_log Pień klonu
+item.maple_leaves Liście klonu
+item.blueberry_bush Krzew borówki
+item.light_sponge Lekka gąbka
+item.light_sponge.desc Obecnie nieczynna.
+item.door Drzwi
+
+item.copper_helmet Miedziany hełm
+item.iron_helmet Żelazny hełm
+item.silver_helmet Srebrny hełm
+item.gold_helmet Złoty hełm
+
+item.copper_chestplate Miedziany napierśnik
+item.iron_chestplate Żelazny napierśnik
+item.silver_chestplate Srebrny napierśnik
+item.gold_chestplate Złoty napierśnik
+item.copper_greaves Miedziane nagolenniki
+item.iron_greaves Żelazne nagolenniki
+item.silver_greaves Srebrne nagolenniki
+item.gold_greaves Złote nagolenniki
+item.dynamite Dynamit
+item.dynamite.desc Świetny do zabawy w ping-ponga!
+item.daffodil Żonkil
+item.rose Róża
+item.dandelion Mlecz
+item.cobblestone Kostka
+item.potion_station Statyw alchemiczny
+item.cooking_station Kuchenka
+item.stair_test Test schodów
+item.slab_test Test płyty
+item.fence_test Test płotu
+item.branch_test Test gałęzi
+item.ladder Drabina
+item.dynamite_block Skupisko dynamitu
+item.dynamite_block.desc I wysadzka!
+item.cactus_sword Kaktusowy miecz
+item.wood_bow Drewniany łuk
+item.slingshot Proca
+item.arrow Strzała
+item.rock Skała
+item.shuriken Shuriken
+item.dart Strzałka
+item.wand Różdżka
+item.wand.desc Używana do zaznaczania miejsc pod polecenie.
+item.frozen_stone Zamarzły kamień
+item.grass_tall_snowy Śnieżna trawa
+item.grass_tall_dry Sucha trawa
+item.dead_bush Martwy krzew
+item.desert_bush Pustynny krzew
+item.agave Agawa
+item.cactus_flower Kwiat kaktusa
+item.cactus_small Mały kaktus
+item.cactus Kaktus
+item.maple_sapling Sadzonka klonu
+item.oak_sapling Sadzonka dębu
+item.birch_sapling Sadzonka brzozy
+item.frost_algae Lodowe glony
+item.slime_algae Śluzowe glony
+item.pine_leaves Liście sosny
+item.forest_pickaxe Leśny kilof
+item.forest_pickaxe.desc Zawsze kop w dół!
+item.entwiner Splatacz
+item.entwiner.desc Magicznie splata wyzwalacz z polem docelowym.
+item.heart_beet Serdeczny burak
+item.heart_beet.desc Zwiększa zdrowie o jedno serce!
+item.iron_chest Żelazny kufer
+item.gold_chest Złoty kufer
+item.dungeon_bricks Cegły lochu
+item.dungeon_grate Krata lochu
+item.dungeon_lamp Lampa lochu
+item.dungeon_lamp_blue Niebieska lampa lochu
+item.dungeon_pressure_plate Płytka naciskowa lochu
+item.dungeon_door Drzwi lochu
+item.pressure_plate Płytka naciskowa
+item.button Przycisk
+item.splitter Rozprowadzacz
+item.splitter.desc Rozprowadza sygnał na sąsiednie bloki.
+item.pulser Pulsator
+item.pulser.desc Przedłuża puls na splecione bloki.
+item.dart_trap Pułapka ze strzałkami
+item.dart_trap.desc Rani wystrzelonymi strzałkami.
+
+item.thorn_blade Ostrze cierniowe
+item.regen_charm Urok regeneracji
+item.regen_charm.desc Leczy jeden punkt zdrowia co 4 sekundy.
+item.jet_boots Buty odrzutowe
+item.jet_boots.desc Skocz w powietrzu, by je uruchomić. Lot trwa sekundę.
+item.spring_boots Buty sprężynowe
+item.spring_boots.desc Zwiększa wysokość skoku na dwa metry.
+item.paraglider Paralotnia
+item.paraglider.desc Spowalnia spadek z dużych wysokości.
+item.jumping_bean Fasoloskoczek
+item.jumping_bean.desc Zwiększa obrażenia w walce wręcz o 20%, choć jest w tym haczyk.
+item.sneakers Tenisówki
+item.sneakers.desc Umożliwia skradanie się.
+item.gecko_gloves Rękawiczki gekona
+item.gecko_gloves.desc Umożliwa wspinaczkę.
+item.speed_boots Buty prędkości
+item.speed_boots.desc Przerzucają nogi na wyższy bieg.
+item.oak_log Pień dębu
+item.pine_log Pień świerku
+item.pine_sapling Sadzonka świerku
+item.birch_planks Brzozowe deski
+item.maple_planks Klonowe deski
+item.pine_planks Świerkowe deski
+item.framed_glass Szkło w oprawie
+item.red_brick Czerwona cegła
+item.lamp_cyan Turkusowa lampa
+item.lamp_magenta Fuksjowa lampa
+item.lamp_yellow Żółta lampa
+item.copper_bars Miedziane kraty
+item.iron_bars Żelazne kraty
+item.silver_bars Srebrne kraty
+item.gold_bars Złote kraty
+item.concrete Beton
+item.concrete.desc Zwiększa prędkość o 20%.
+item.asphalt Asfalt
+item.asphalt.desc Zwiększa prędkość o 20%.
+item.thick_birch_log Gruby pień brzozy
+item.thick_maple_log Gruby pień klonu
+item.thick_oak_log Gruby pień dębu
+item.thick_pine_log Gruby pień świerku
+item.trampoline Trampolina
+item.trampoline.desc Za jej pomocą możesz skakać wysoko.
+item.launch_pad Wyrzutnia
+item.launch_pad.desc Wyrzuca w powietrze.
+item.cloth Tkanina
+item.cloth_light_grey Jasnoszara tkanina
+item.cloth_dark_grey Ciemnoszara tkanina
+item.cloth_black Czarna tkanina
+item.cloth_red Czerwona tkanina
+item.cloth_orange Pomarańczowa tkanina
+item.cloth_yellow Żółta tkanina
+item.cloth_lime Limonkowa tkanina
+item.cloth_green Zielona tkanina
+item.cloth_cyan Turkusowa tkanina
+item.cloth_blue Niebieska tkanina
+item.cloth_dark_blue Ciemnoniebieska tkanina
+item.cloth_purple Fioletowa tkanina
+item.cloth_pink Różowa tkanina
+item.cloth_light_pink Jasnoróżowa tkanina
+item.cloth_brown Brązowa tkanina
+
+item.weak_health_potion Słaba mikstura życia
+item.weak_health_potion.desc Leczy 10 punktów życia.
+item.poison_potion Mikstura trucizny
+item.poison_potion.desc Gdyż każdy lek niewłaściwie stosowany zagraża życiu lub zdrowiu.
+item.speed_potion Mikstura prędkości
+item.regen_potion Mikstura regeneracji
+item.regen_potion.desc Powoli leczy punkty zdrowia przez 5 minut.
+item.armour_potion Mikstura obrony
+item.armour_potion.desc Zwiększa obronę o 4 punkty na 5 minut.
+item.respawn_potion Mikstura powrotu
+item.respawn_potion.desc Teleportuje na punkt odrodzenia.
+item.flight_potion Mikstura lotu
+item.flight_potion.desc Umożliwia wzlatywanie na minutę.
+item.cure_cube Sześcian uodpornienia
+item.cure_cube.desc Uodpornia na truciznę.
+item.cotton_plant Roślina bawełny
+item.cotton_plant.desc Można ją sadzić oraz zbierać.
+item.decoration_station Stanowisko do dekorowania
+item.decoration_station.desc Służy do tworzenia bloków dekoracyjnych.
+item.dungeon_spawner Przywoływacz lochu
+item.copper_bow Miedziany łuk
+item.iron_bow Żelazny łuk
+item.silver_bow Srebrny łuk
+item.gold_bow Złoty łuk
+item.copper_crossbow Miedziana kusza
+item.iron_crossbow Żelazna kusza
+item.silver_crossbow Srebrna kusza
+item.gold_crossbow Złota kusza
+item.reinforced_arrow Zbrojona strzała
+item.flaming_arrow Płonąca strzała
+item.explosive_arrow Wybuchowa strzała
+item.root_arrow Korzeniostrzał
+item.rock_melon Kamieniolon
+item.watermelon Arbuz
+item.brick Cegła
+item.brick.desc Do rzucania w rzeczy, które nie lubisz.
+item.throwable_torch Rzucana pochodnia
+item.squeaky_toy Piszczek
+item.whoopee_cushion Pierdząca poduszka
+item.air_horn Klakson
+item.glow_worms Połyskujące dżdżownice
+item.heart_beet_block Blok serdecznego buraka
+item.sandstone_brick_small Cegiełki z piaskowca
+item.toy_crate Skrzynia z zabawkami
+item.sprinkler Zraszacz
+item.soil Sucha gleba
+item.wet_soil Wilgotna gleba
+item.arrow_root_seed Nasiono korzeniostrzału
+item.bomb_berry_seed Nasiono bombówki
+item.rock_melon_seed Nasiono kamieniolona
+item.watermelon_seed Nasiono arbuza
+item.frying_pan Patelnia
+item.boomerang Bumerang
+item.throwable_glow_bean Rzucana połyskująca fasola
+item.watering_can Konewka
+item.watering_can.desc Wiecznie pełna dzięki magii.
+item.hoe Motyka
+item.tomato Pomidor
+item.bread Chleb
+item.wheat Pszenica
+item.bomb_berry Bombówka
+item.bomb_berry.desc Spożycie w domu może się źle skończyć.
+item.ominous_deer_skull Złowieszcza jelenia czaszka
+item.oak_leaves Liście dębu
+item.placed_glow_bean Połyskująca fasola
+item.weapon_crate Skrzynia z bronią
+item.forest_chest Leśny kufer
+item.tomato_seed Nasiono pomidora
+item.wheat_seed Nasiono pszenicy
+item.glow_bean_seed Nasiono połyskującej fasoli
+item.weeds Chwasty
+item.spider_web Pajęczyna
+item.pizza_cutter Nóż do pizzy
+item.crowbar Łom
+item.melon_slicer Krajacz do arbuza
+item.forest_axe Leśna siekiera
+item.snowball_cannon Armata śnieżkowa
+item.snowball Śnieżka
+item.forest_ingot Leśna sztabka
+item.eightball Magiczna bila
+item.dice Kostka do gry
+item.basketball Piłka do koszykówki
+item.bucket Wiadro
+item.water_bucket Wiadro z wodą
+item.lava_bucket Wiadro z lawą
+item.sponge Gąbka
+item.lava_sponge Gąbka do lawy
+item.forest_blessing Leśne błogosławienie
+item.forest_blessing.desc Dodaje 2 dodatkowych sekund do wytrzymałości.
+item.minecart Wagon
+item.minecart.desc Umieść na torze, aby się nim przejechać.
+item.underground_bush Krzew podszytu
+item.undergrowth_rock Skała podszytu
+item.forest_flower Leśny kwiat
+item.lava_lily Lilia lawy
+item.bubble_glass Szkło bańkowe
+item.undergrowth_crate Skrzynia podszytu
+item.spike_trap Pułapka z kolcami
+item.dynamite_trap Pułapka z dynamitem
+item.basket_hoop Kosz do koszykówki
+item.rail Tory
+item.painting_child Przedmiot obrazu z metadanymi
+item.painting_melon Obraz z arbuzem
+item.painting_melon.desc Powolne życie… lub samoportret.
+item.painting_triangle Obraz — Trójkąt
+item.painting_triangle.desc Podstawowy pierwiastek życia.
+item.painting_stars Obraz — Gwiazdy
+item.painting_pipes Obraz — Rurociągi
+item.painting_cloud Obraz — Różowy obłok
+item.painting_waves Obraz — Wały
+item.painting_biome Obraz — Biom
+item.painting_deer Obraz — Jeleń
+item.spawn_pointer Wskaźnik odrodzenia
+item.spawn_pointer.desc Przyciśnij PPM, aby ustawić punkt odrodzenia.
+item.forest_helmet Leśny hełm
+item.forest_chestplate Leśny napierśnik
+item.forest_greaves Leśne nagolenniki
+item.skull_fragment Odłamek czaszki
+
+item.cobalt_pickaxe Kobaltowy kilof
+item.cobalt_sword Kobaltowy miecz
+item.arctic_blade Arktyczne ostrze
+item.big_sword Wielki miecz
+item.baguette Bagietka
+item.frosted_boomerang Oszroniony bumerang
+item.cobalt_spear Kobaltowa włócznia
+item.cobalt_axe Kobaltowa siekira
+item.cobalt_helmet Kobaltowy hełm
+item.cobalt_chestplate Kobaltowy napierśnik
+item.cobalt_greaves Kobaltowe nagolenniki
+item.cobalt_bow Kobaltowy łuk
+item.cobalt_crossbow Kobaltowa kusza
+item.snowball_splitter Przecinacz śnieżek
+item.flamethrower Miotacz ognia
+item.fart_gun Pierdzący pistolet
+item.cobalt_ingot Sztabka kobaltu
+item.copper_coin Miedziany żeton
+item.silver_coin Srebrny żeton
+item.gold_coin Złoty żeton
+item.allumerium_coin Alumerowy żeton
+item.mining_potion Mikstura drążenia
+item.mint Mięta
+item.red_meat Czerwone mięso
+item.steak Stek
+item.red_mushroom_item Czerwony grzyb
+item.glowing_mushroom_item Połyskujący grzyb
+item.magnet Magnes
+item.magnet.desc Przyciąga przedmioty oddalone aż do 4 metrów.
+item.scuba_helmet Hełm do akwalungu
+item.scuba_helmet.desc Umożliwia oddychanie pod wodą.
+item.curse_of_core Klątwa rdzenia
+item.curse_of_core.desc Może spowodować boleść i cierpienie.
+item.cosmic_radiation Promieniowanie kosmiczne
+item.cosmic_radiation.desc Może doprowadzić do odwrócenia jednego z bitów.
+item.paint_roller Wałek do malowania
+item.paint_roller_earthy Wałek do malowania — Ziemska paleta
+item.paint_roller_pastel Wałek do malowania — Pastelowa paleta
+item.wallpaper Tapeta
+item.wallpaper.desc Można ją nałożyć wyłącznie na płytę gipsową.
+item.permafrost Zmarzlina
+item.cobalt_ore Ruda kobaltu
+item.amethyst_ore Ametyst
+item.sapphire_ore Szafir
+item.diamond_ore Diament
+item.cobalt_plated_stone Kamień obity kobaltem
+item.alpha_shop Sklep alfa
+item.alpha_shop.desc Zostanie usunięty, gdy zostaną dodane NPC.
+item.white_torch Biała pochodnia.
+item.ice_crate Lodowa skrzynia
+item.ice_chest Lodowy kufer
+item.table Stół
+item.chair Krzesło
+item.basic_lamp Lampa
+item.snow_dungeon_bricks Cegła śnieżnego lochu
+item.snow_dungeon_lamp Lampa śnieżnego lochu
+item.pressure_plate_small Mała płytka naciskowa
+item.icycle Sopel
+item.switch Przełącznik
+item.cobalt_bars Kobaltowe kraty
+item.drywall Płyta gipsowa
+item.cotton_candy Wata cukrowa
+item.amethyst_block Blok ametystu
+item.sapphire_block Blok szafiru
+item.diamond_block Blok diamentu
+item.mint_seed Nasiona mięty
+item.painting_blue Obraz — Niebieski
+item.painting_city Obraz — Miasto
+item.painting_desolate Obraz — Bezludzie
+item.painting_figure Obraz — Sylwetka
+item.painting_bird Obraz — Ptaszyna
+item.painting_undergrowth Obraz — Podszyt
+item.structure_save Zapisz strukturę
+item.structure_load Załaduj strukturę
+item.structure_latch Połącz strukturę
+item.structure_marker Wyznacz strukturę
+item.structure_noreplace Nie zamieniaj struktury
+item.fluid.empty Pusty płyn
+item.fluid.water Woda
+item.fluid.lava Lawa
+item.raygun_death Laser natychmiastowego unicestwienia
+item.ice_torch Lodowa pochodnia
+item.arcade_carpet Dywan salonu gier
+item.painting_snowman Obraz — Bałwan
+item.big_snowball Duża śnieżka
+item.big_snowball.desc Czy chcesz ulepić bałwana?
+item.snow_boss_base Podstawa śnieżnego bossa
+item.evil_tophat Złowrogi cylinder
+item.evil_tophat.desc 
+
+item_tag.can_place Można postawić
+item_tag.can_consume Można spożyć
+item_tag.axe_power Siekiera
+item_tag.pickaxe_power Kilof
+item_tag.swing_speed Przerwa
+item_tag.hammer Młot
+item_tag.cant_mine Nie można wykopać
+item_tag.restores_health Leczy
+item_tag.melee_damage Walka wręcz
+item_tag.defence Obrona
+item_tag.required_ammo Wymagana amunicja
+item_tag.ammo Amunicja
+item_tag.ranged_damage Walka z dystansu
+item_tag.trinket Świecidełko
+item_tag.can_block Można odpierać
+item_tag.knockback Odrzut
+
+settings.field_of_view Pole widzenia
+settings.max_fps Limit FPS
+settings.render_distance Odległość renderowania
+settings.mouse_sensitivity Czułość myszy
+settings.master_volume Głośność — Ogółem
+settings.max_mesh_threads Limit wątków siatek
+settings.max_mesh_uploads Limit przesłań siatek (na klatkę)
+settings.show_control_hints Pokazuj wskazówki sterowania
+settings.auto_scale_ui Automatyczne skalowanie interfejsu
+settings.manual_ui_scale Ręczne skalowanie interfejsu
+settings.world_volume Głośność — Świat
+settings.music_volume Głośność — Muzyka
+settings.ui_volume Głośność — Interfejs/Gracz
+settings.ambient_volume Głośność — Środowisko
+settings.autosave_interval Odstęp samozapisu (w minutach)
+settings.autosave_enabled Samozapis
+settings.autosave_indicator Wskaźnik samozapisu
+settings.panicsave_enabled Tworzenie kopii zapasowej przy awarii
+settings.view_bobbing Kołysanie
+settings.screen_shake Wstrząsy
+settings.allow_noclip Przenikanie przez bloki
+settings.allow_infinite_item Nieskończone przedmioty
+settings.allow_creative_menu Tryb twórczy
+settings.allow_godmode Tryb nieśmiertelny
+settings.mob_spawning Potwory
+settings.current_language Polski
+settings.language_info Prosimy ponownie uruchomić grę, aby załadować zmiany.
+
+settings_category.video Obraz
+settings_category.audio Dźwięk
+settings_category.controls Sterowanie
+settings_category.misc Inne
+settings_category.keybinds Klawisze
+settings_category.cheats Oszukiwanie
+settings_category.language Język
+
+control_hint.open_inventory Otwórz wyposażenie
+control_hint.close_inventory Zamknij wyposażenie
+control_hint.close_menu Zamknij okienko
+control_hint.split_stack Przetnij stos
+control_hint.take_stack Zabierz stos
+control_hint.drop_one Upuść sztukę
+control_hint.drop_stack Upuść stos
+control_hint.craft_one Stwórz sztukę
+control_hint.toggle_creative Tryb twórczy
+control_hint.use Użyj
+control_hint.use_item Użyj przedmiotu
+control_hint.place_item Umieść przedmiot
+control_hint.punch Uderz
+control_hint.unequip Załóż
+control_hint.equip Zdejmij
+control_hint.change_shape Zmień kształt
+control_hint.show_recipes Pokaż przepisy
+
+keybind.move_forward Do przodu
+keybind.move_backward W tył
+keybind.move_left W lewo
+keybind.move_right W prawo
+keybind.fly_down W górę
+keybind.fly_up W dół
+keybind.jump Skok
+keybind.noclip Przełącz przenikanie przez bloki
+keybind.place Umieść / użyj
+keybind.punch Uderz
+keybind.place_modifier Umieść modyfikator
+keybind.open_inventory Otwórz wyposażenie
+keybind.toggle_creative_menu Przełącz tryb twórczy
+keybind.drop_item Upuść przedmiot
+keybind.drop_modifier Upuść modyfikator przedmiotu
+keybind.pause Przerwij
+keybind.ui_confirm Interfejs — Potwierdź
+keybind.ui_secondary Interfejs — Wtórny przycisk
+keybind.toggle_debug Przełącz nakładkę debugowania
+keybind.toggle_profiler Przełącz nakładkę profilowania
+keybind.toggle_fullscreen Przełącz tryb pełnoekranowy
+keybind.ui_up Interfejs — W górę
+keybind.ui_down Interfejs — W dół
+keybind.ui_left Interfejs — W lewo
+keybind.ui_right Interfejs — W prawo
+keybind.hotbar1 Pole 1
+keybind.hotbar2 Pole 2
+keybind.hotbar3 Pole 3
+keybind.hotbar4 Pole 4
+keybind.hotbar5 Pole 5
+keybind.hotbar6 Pole 6
+keybind.hotbar7 Pole 7
+keybind.hotbar8 Pole 8
+keybind.hotbar9 Pole 9
+keybind.hotbar10 Pole 10
+keybind.hotbar11 Pole 11
+keybind.hotbar12 Pole 12
+keybind.open_chat Otwórz czat
+keybind.send_chat Wyślij wiadomość
+keybind.toggle_hud Przełącz wyświetlacz przezierny
+keybind.take_screenshot Zrób zrzut ekranu
+keybind.open_radial Otwórz okienko promieniowe
+keybind.sneak Skradanie
+keybind.sprint Bieg
+keybind.show_use Pokaż zastosowania przedmiotu
+keybind.show_recipe Pokaż przepisy dla przedmiotu
+keybind.pick_block Wybierz blok
+keybind.scroll_up Przewiń w górę
+keybind.scroll_down Przewiń w dół
+keybind.favourite_item Ulubiony przedmiot
+
+
+ammo.arrow Strzała
+ammo.rock Skała
+ammo.bullet Nabój
+ammo.snowball Śnieżka
+
+effect.poison Zatrucie
+effect.desc.poison Zadaje obrażenia w czasie.
+effect.regen Regeneracja
+effect.desc.regen Powoli się regenerujesz.
+effect.wet Przemoczenie
+effect.desc.wet Jesteś przemoczony/a wodą.
+effect.slowfall Powolne spadanie
+effect.desc.slowfall Spadasz powoli i nie otrzymujesz obrażeń od upadku.
+effect.fire Podpalenie
+effect.desc.fire Płoniesz!!!
+effect.healcooldown Niedawno wyleczono
+effect.desc.healcooldown Musisz chwileczkę poczekać, zanim będziesz mógł/a ponownie się wyleczyć.
+effect.freezing Zamarznięcie
+effect.desc.freezing Otrzymujesz obrażenia od zimna.
+effect.fast Prędkość
+effect.desc.fast Szybciej się poruszasz.
+effect.slow Spowolnienie
+effect.desc.slow Wolniej się poruszasz.
+effect.anchored Zakotwiczenie
+effect.desc.anchored Jesteś zakotwiczony w obecnym miejscu.
+effect.frozen Zamrożenie
+effect.desc.frozen Zostałeś/aś zamrożony/a i nie jesteś w stanie niczego zrobić!
+effect.watched Śledzenie
+effect.desc.watched …
+effect.flight Wzlot
+effect.desc.flight Masz możliwość dokonywania krótkich wzlotów.
+effect.regen_potion Regeneracja (Mikstura)
+effect.desc.regen_potion Powoli regenerujesz punkty zdrowia.
+effect.armoured Pancerz
+effect.desc.armoured Twoja obrona zwrosła o 4 punkty.
+
+effect.concussion Wstrząs
+effect.desc.concussion Auć! To musiało boleć. Wolniej się poruszasz.
+effect.snack Przekąska
+effect.desc.snack Przekąsiłeś/aś coś. Twoje umiejętności odrobinkę wzrosły.
+effect.small_meal Posiłek
+effect.desc.small_meal Zjadłeś/aś coś. Twoje umiejętności odrobinę wzrosły.
+effect.webbed Zaplątanie
+effect.desc.webbed Zaplątałeś/aś się w pajęczynie.
+
+
+
+effect.fast_mining Drążenie
+effect.desc.fast_mining Twoja umiejętność kopania została usprawniona.
+
+crafting_station.inventory Od ręki
+crafting_station.work_bench Stół rzemieślniczy
+crafting_station.furnace Piec
+crafting_station.anvil Kowadło
+crafting_station.decorations Stanowisko do dekorowania
+crafting_station.potions Statyw alchemiczny
+
+loading.tip0 Potwory pojawiają się na blokach spotykanych w przyrodzie.
+loading.tip1 Wciśnij „R”, by zobaczyć przepisy dla danego przedmiotu.
+loading.tip2 Przytrzymaj „R” podczas trzymania bloku, by zmienić jego kształt.
+loading.tip3 Plony ulegają mutacji, gdy nie są pod nadzorem.
+loading.tip4 Uważaj na podziemne pułapki, szczególnie w lochach.
+loading.tip5 Tory można zamieszczać na suficie i na ścianach.
+loading.tip6 Obecność pochodni w jaskiniach nie wpływa na pojawianie się potworów.
+loading.tip7 Użyj wskaźnika, by ustawić punkt odrodzenia.
+loading.tip8 Użyj mikstury powrotu, by powrócić do domu, gdy się zgubisz.
+loading.tip9 Naciśnij przedmioty przytrzymując klawisz CTRL, by wysłać je do kosza.
+loading.tip10 Przedmioty można stakować do pobliskich kufrów.
+loading.tip11 Możesz posortować swoje wyposażenie.
+loading.tip12 Niektórymi broniami można odpierać ataki od przeciwników.
+loading.tip13 Użyj stanowiska do dekorowania, by stworzyć rozmaite fajne przedmioty.
+loading.tip14 Twórz przedmioty używając krzemienia i stołu rzemieślniczego.
+loading.tip15 Wystarczająco silny kilof przedrze się na drugą stronę.
+loading.tip16 Czasami jest to dobry pomysł kopać pod siebie.
+loading.tip17 Jeśli znajdziesz błąd, prosimy go zgłosić na naszym Discordzie.
+loading.tip18 Masz opinię? Dołącz do Discorda i wypełnij formularz z komentarzem.
+loading.tip19 Wytrzymałość narzędzi nie istnieje, i nie ma jak Cię skrzywdzić.
+loading.tip20 Jeśli zaniedbasz swój ogródek, twoje roślinki się zmutują i Cię złapią.
+loading.tip21 Użyj „F11”, by przełączyć tryb pełnoekranowy.
+loading.tip22 Gra w koszykówkę podczas walki z bossem może okazać się pomocna.
+loading.tip23 Serdecznych buraków można użyć do zwiększenia punktów zdrowia.
+loading.tip24 Wybuchowe strzały są niebezpieczne w walce wręcz.
+
+colour.clear Przezroczysty
+colour.white Biały
+colour.grey Jasnoszary
+colour.dark_grey Ciemnoszary
+colour.black Czarny
+colour.red Czerwony
+colour.orange Pomarańczowy
+colour.yellow Żółty
+colour.lime Limonkowi
+colour.green Zielony
+colour.turqoise Turkusowy
+colour.blue Niebieski
+colour.dark_blue Ciemnoniebieski
+colour.purple Fioletowy
+colour.pink Różowy
+colour.light_pink Jasnoróżowy
+colour.brown Brązowy
+colour.algae Glonowy
+colour.moss Omszały
+colour.forest Leśny
+colour.ocean Oceanowy
+colour.mud Błocisty
+colour.clay Gliniany
+colour.sand Piaskowy
+colour.powder Proszkowy
+colour.none Żadny
+colour.orange_sherbet Pomarańczowosorbetowy
+colour.lemon_yellow Cytrynowożółty
+colour.pale_yellow Bladożółty
+colour.mint Miętowozielony
+colour.baby_blue Błękitny
+colour.lavender Lawendowy
+colour.pastel_pink Pasteloworóżowy
