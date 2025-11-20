@@ -1,0 +1,662 @@
+item.copper_pickaxe Târnăcop de cupru
+item.copper_sword Sabie de cupru
+item.copper_axe Topor de cupru
+item.copper_ingot Lingou de cupru
+item.iron_ingot Lingou de fier
+item.health_potion Poțiune de viață
+item.empty Gol
+item.stone Piatră
+item.unknown Necunoscut
+item.dirt Pământ
+item.grass Iarbă
+item.planks Scânduri
+item.water Apă veche
+item.sand Nisip
+item.lamp_warm Lampă caldă
+item.lamp_white Lampă albă
+item.lamp_blue Lampă albastră
+item.lava Lavă veche
+item.blockMetaDataTest Bloc test metadata
+item.log Buștean
+item.leaves Frunze
+item.grass_tall Iarbă înaltă
+item.workbench Bancă de lucru
+item.workbench.desc Poate face obiecte mai complexe
+item.worldBorder Granița lumii
+item.worldBorder.desc Dacă ai putut obține asta, ori trișezi, ori mi s-a stricat jocul :(
+item.copper_ore Minereu de cupru
+item.copper_ore.desc Poate fi topit în lingouri
+item.iron_ore Minereu de fier
+item.iron_ore.desc Poate fi topit în lingouri
+item.coal_ore Minereu de cărbune
+item.furnace Cuptor
+item.glowing_mushroom Ciupercă strălucitoare
+item.torch Torță
+item.crate Ladă
+item.stone_brick Cărămidă de piatră
+item.glass Sticlă
+item.stone_brick_small Cărămidă de piatră
+item.clay Lut
+item.clay_brick_small Cărămidă de lut
+item.copper_plated_stone Piatră placată cu cupru
+item.iron_plated_stone Piatră placată cu fier
+item.flint_pickaxe Târnăcop de cremene
+item.flint_sword Sabie de cremene
+item.flint_axe Topor de cremene
+item.core Miez 
+item.flint Cremene
+item.iron_pickaxe Târnăcop de fier
+item.iron_sword Sabie de fier
+item.iron_axe Sabie de fier
+item.red_mushroom Ciupercă roșie
+item.allumerium_ore Minereu de alumeriu
+item.chest Cufăr
+item.silver_pickaxe Târnăcop de argint
+item.silver_sword Sabie de argint
+item.silver_axe Topor de argint
+item.gold_pickaxe Târnăcop de aur
+item.gold_sword Sabie de aur
+item.gold_axe Topor de aur
+item.silver_ingot Lingou de argint
+item.gold_ingot Lingou de aur
+item.sandstone Gresie
+item.snow Zăpadă
+item.ice Gheață
+item.silver_ore Minereu de argint
+item.gold_ore Minereu de aur
+item.silver_plated_stone Piatră placată cu argint
+item.gold_plated_stone Piatră placată cu aur
+item.sandstone_brick Cărămidă de gresie
+item.snow_brick Cărămidă de zăpadă
+item.stone_block Bloc de piatră
+item.lamp_red Lampă roșie
+item.lamp_green Lampă verde
+item.flint_hammer Ciocan
+item.flint_hammer.desc Poate schimba forma blocurilor
+item.bagel Covrig
+item.everything_bagel Covrig cu de toate
+item.everything_bagel.desc Unul cu de toate.
+item.blueberry Afină
+item.birch_log Buștean de mesteacăn
+item.maple_log Buștean de arțar
+item.maple_leaves Frunze de arțar
+item.blueberry_bush Tufiș de afine
+item.light_sponge Burete deschis
+item.light_sponge.desc Stricat la momentul de față :(
+item.door Ușă
+
+item.copper_helmet Cască de cupru
+item.iron_helmet Cască de fier
+item.silver_helmet Cască de argint
+item.gold_helmet Cască de aur
+
+item.copper_chestplate Platoșă de cupru
+item.iron_chestplate Platoșă de fier
+item.silver_chestplate Platoșă de argint
+item.gold_chestplate Platoșă de aur
+item.copper_greaves Jambiere de cupru
+item.iron_greaves Jambiere de fier
+item.silver_greaves Jambiere de argint
+item.gold_greaves Jambiere de aur
+item.dynamite Dinamită 
+item.dynamite.desc Numai bună de jucat prinsa cu ea
+item.daffodil Narcisă
+item.rose Trandafir
+item.dandelion Păpădie
+item.cobblestone Piatră cubică
+item.potion_station Stație de poțiuni
+item.cooking_station Stație pentru gătit
+item.stair_test Test scări
+item.slab_test Test lespede
+item.fence_test Test gard
+item.branch_test Test creangă
+item.ladder Scară
+item.dynamite_block Bloc de dinamită
+item.dynamite_block.desc Ți-ar plăcea să explodezi?!
+item.cactus_sword Sabie de cactus
+item.wood_bow Arc de lemn
+item.slingshot Praștie
+item.arrow Săgeată
+item.rock Piatră
+item.shuriken Shuriken
+item.dart Săgeată mică
+item.wand Baghetă
+item.wand.desc Utilizată la a selecta două puncte pentru comenzi.
+item.frozen_stone Piatră înghețată
+item.grass_tall_snowy Iarbă înzăpezită
+item.grass_tall_dry Iarbă uscată
+item.dead_bush Tufă moartă
+item.desert_bush Tufă de deșert
+item.agave Agave
+item.cactus_flower Floare de cactus
+item.cactus_small Cactus mic
+item.cactus Cactus
+item.maple_sapling Puiet de arțar
+item.oak_sapling Puiet de stejar
+item.birch_sapling Puiet de mesteacăn
+item.frost_algae Alge ale înghețului
+item.slime_algae Alge ale mâzgii
+item.pine_leaves Frunze de pin
+item.forest_pickaxe Târnăcop al pădurii
+item.forest_pickaxe.desc Sapă mereu drept în jos :)
+item.entwiner Împletitor
+item.entwiner.desc Împletește în mod magic un declanșator de o destinație
+item.heart_beet Sfeclă Inimă
+item.heart_beet.desc Crește maximul de viață cu o inimă!
+item.iron_chest Cufăr de fier
+item.gold_chest Cufăr de aur
+item.dungeon_bricks Cărămizi ale temniței pădurii
+item.dungeon_grate Zăbrele ale temniței pădurii
+item.dungeon_lamp Lampă a temniței pădurii
+item.dungeon_lamp_blue Lampă albastră a temniței pădurii
+item.dungeon_pressure_plate Placă de presiune a temniței pădurii
+item.dungeon_door Ușă a temniței pădurii
+item.pressure_plate Placă de presiune
+item.button Buton
+item.splitter Împărțitor
+item.splitter.desc Împarte un semnal blocurilor adiacente.
+item.pulser Pulsator
+item.pulser.desc Extinde un puls al împletirii
+item.dart_trap Capcană cu săgeți
+item.dart_trap.desc Trage cu săgeți otrăvite
+
+item.thorn_blade Lamă cu spini
+item.regen_charm Piatra regenerării
+item.regen_charm.desc Restaurează 1 HP la 4 secunde.
+item.jet_boots Cizme jet
+item.jet_boots.desc Sari în aer ca să le activezi, au 1 secundă de combustibil
+item.spring_boots Cizme cu arc
+item.spring_boots.desc Crește înălțimea de salt la 2m.
+item.paraglider Planor
+item.paraglider.desc Coboară încet de la mari înălțimi.
+item.jumping_bean Fasole săritoare
+item.jumping_bean.desc Crește daunele cu arme albe cu 20%, cu o priză.
+item.sneakers Teniși
+item.sneakers.desc Te lasă să te furișezi.
+item.gecko_gloves Mănuși gecko
+item.gecko_gloves.desc Portul acestor mănuși te lasă să te cațeri pe suprafețe.
+item.speed_boots Cizme cu accelerație
+item.speed_boots.desc Portul acestora îți dă energia să fugi.
+item.oak_log Buștean de stejar
+item.pine_log Buștean de pin
+item.pine_sapling Buștean de pin
+item.birch_planks Scânduri de mesteacăn
+item.maple_planks Scânduri de arțar
+item.pine_planks Scânduri de pin
+item.framed_glass Sticlă încadrată
+item.red_brick Cărămidă roșie
+item.lamp_cyan Lampă cyan
+item.lamp_magenta Lampă magenta
+item.lamp_yellow Lampă galbenă
+item.copper_bars Zăbrele de cupru
+item.iron_bars Zăbrele de fier
+item.silver_bars Zăbrele de argint
+item.gold_bars Zăbrele de aur
+item.concrete Beton
+item.concrete.desc Accelerare a vitezei de mișcare 1.2x
+item.asphalt Asfalt
+item.asphalt.desc Accelerare a vitezei de mișcare 1.2x
+item.thick_birch_log Buștean gros de mesteacăn
+item.thick_maple_log Buștean gros de arțar
+item.thick_oak_log Buștean gros de stejar
+item.thick_pine_log Buștean gros de pin
+item.trampoline Trambulină
+item.trampoline.desc Te lasă să sari foarte sus
+item.launch_pad Launch Platformă de lansare
+item.launch_pad.desc Te lansează în aer
+item.cloth Pânză
+item.cloth_light_grey Pânză gri deschis
+item.cloth_dark_grey Pânză gri închis
+item.cloth_black Pânză neagră
+item.cloth_red Pânză roșie
+item.cloth_orange Pânză portocalie
+item.cloth_yellow Pânză galbenă
+item.cloth_lime Pânză lime
+item.cloth_green Pânză verde
+item.cloth_cyan Pânză cyan
+item.cloth_blue Pânză albastră
+item.cloth_dark_blue Pânză albastru închis
+item.cloth_purple Pânză mov
+item.cloth_pink Pânză roz
+item.cloth_light_pink Pânză roz deschis
+item.cloth_brown Pânză maro
+
+item.weak_health_potion Poțiune slabă de viață
+item.weak_health_potion.desc Restaurează 10 HP
+item.poison_potion Poțiune de otravă
+item.poison_potion.desc A nu se bea!
+item.speed_potion Poțiune de viteză
+item.regen_potion Poțiune de regenerare
+item.regen_potion.desc Recuperează lent inimile preț de 10 minute
+item.armour_potion Poțiune de armură
+item.armour_potion.desc Îți crește apărarea cu 4 puncte preț de 5 minute.
+item.respawn_potion Poțiune de întoarcere
+item.respawn_potion.desc Poțiune de întoarcere
+item.flight_potion Poțiune de zbor
+item.flight_potion Îți permite să faci un scurt boost rachetă preț de un minut
+item.cure_cube Cubul vindecării
+item.cure_cube.desc Echiparea acestuia te face imun la otravă.
+item.cotton_plant Plantă de bumbac
+item.cotton_plant.desc Poate fi plantată și recoltată.
+item.decoration_station Stație de decorare
+item.decoration_station.desc Utilizată în construirea blocurilor decorative.
+item.dungeon_spawner Spawner al temniței pădurii
+item.copper_bow Arc de cupru
+item.iron_bow Arc de fier
+item.silver_bow Arc de argint
+item.gold_bow Arc de aur
+item.copper_crossbow Arbaletă de cupru
+item.iron_crossbow Arbaletă de fier
+item.silver_crossbow Arbaletă de argint
+item.gold_crossbow Arbaletă de aur
+item.reinforced_arrow Săgeată ranforsată
+item.flaming_arrow Săgeată înflăcărată
+item.explosive_arrow Săgeată explozivă
+item.root_arrow Rădăcină de maranata
+item.rock_melon Pepene de stâncă
+item.watermelon Pepene
+item.brick Cărămidă
+item.brick.desc S-o arunci la chestii care nu-ți plac
+item.throwable_torch Torță de aruncat
+item.squeaky_toy Jucărie scârțâitoare
+item.whoopee_cushion Pernuță cu vânturi
+item.air_horn Goarnă
+item.glow_worms Viermi strălucitori
+item.heart_beet_block Sfeclă-inimă (bloc)
+item.sandstone_brick_small Cărămizi mici de gresie
+item.toy_crate Ladă pentru jucării
+item.sprinkler Stropitoare
+item.soil Sol uscat
+item.wet_soil Sol umed
+item.arrow_root_seed Sămânță de maranata
+item.bomb_berry_seed Sămânță de fruct-bombă
+item.rock_melon_seed Sămânță de pepene de stâncă
+item.watermelon_seed Sămânță de pepene
+item.frying_pan Tigaie
+item.boomerang Bumerang
+item.throwable_glow_bean Fasole strălucitoare
+item.watering_can Can-conservă
+item.watering_can.desc Mereu plină din cauza magiei
+item.hoe Sapă
+item.tomato Roșie
+item.bread Pâine
+item.wheat Grâu
+item.bomb_berry Fruct bombă
+item.bomb_berry.desc Avertisment: a nu se mânca în casă
+item.ominous_deer_skull Craniu sinistru de cerb
+item.oak_leaves Frunze de stejar
+item.placed_glow_bean Fasole strălucitoare
+item.weapon_crate Ladă pentru arme
+item.forest_chest Cufăr al pădurii
+item.tomato_seed Sămânță de roșie
+item.wheat_seed Sămânță de grâu
+item.glow_bean_seed Sămânță de fasole strălucitoare
+item.weeds Buruieni
+item.spider_web Pânză de păianjen
+item.pizza_cutter Tăietor de pizza
+item.crowbar Rangă
+item.melon_slicer Feliator de pepeni
+item.forest_axe Topor al pădurii
+item.snowball_cannon Pistol cu bulgări
+item.snowball Bulgăre
+item.forest_ingot Lingou al pădurii
+item.eightball Bilă opt
+item.dice Zaruri
+item.basketball Minge de baschet
+item.bucket Găleată
+item.water_bucket Găleată (apă)
+item.lava_bucket Găleată (lavă)
+item.sponge Burete
+item.lava_sponge Burete cu lavă
+item.forest_blessing Binecuvântare a pădurii
+item.forest_blessing.desc Dă în plus două secunde de rezistență.
+item.minecart Căruț de mină
+item.minecart.desc Pune-l pe o șină ca să mergi cu el.
+item.underground_bush Tufiș de subarboret
+item.undergrowth_rock Stâncă de subarboret
+item.forest_flower Floare a pădurii
+item.lava_lily Crinul Lavei
+item.bubble_glass Sticlă cu bule
+item.undergrowth_crate Lada subarboretului
+item.spike_trap Capcană cu spini
+item.dynamite_trap Capcană cu dinamită
+item.basket_hoop Cerc de baschet
+item.rail Șină
+item.painting_child Bbiect metadata pictură
+item.painting_melon Pictură (Pepene)
+item.painting_melon.desc O natură moartă… Sau un autoportret.
+item.painting_triangle Pictură (Triunghi)
+item.painting_triangle.desc Elementul fundamental al vieții.
+item.painting_stars Pictură (Stele)
+item.painting_pipes Pictură (Țevi)
+item.painting_cloud Pictură (Norul Roz)
+item.painting_waves Pictură (Valuri)
+item.painting_biome Pictură (Biom)
+item.painting_deer Pictură (Căprioară)
+item.spawn_pointer Indicator de începere
+item.spawn_pointer.desc Clic dreapta pentru a seta punctul de plecare.
+item.forest_helmet Cască a pădurii
+item.forest_chestplate Platoșă a pădurii
+item.forest_greaves Jambiere ale pădurii
+item.skull_fragment Fragment de craniu
+
+item.cobalt_pickaxe Târnăcop de cobalt
+item.cobalt_axe Topor de cobalt
+item.cobalt_helmet Coif de cobalt
+item.cobalt_chestplate Placă de cobalt
+item.cobalt_greaves Apărătoare de cobalt
+item.cobalt_bow Arc de cobalt
+item.cobalt_crossbow Arbaletă de cobalt
+item.snowball_splitter Sfărâmător de zăpadă
+item.flamethrower Aruncător de foc
+item.fart_gun Pistol de bășini
+item.cobalt_ingot Lingou de cobalt
+item.copper_coin Monedă de cupru
+item.silver_coin Monedă de argint
+item.gold_coin Galben
+item.allumerium_coin Monedă de alumer
+item.mining_potion Poțiune de minare
+item.mint Mentă
+item.red_meat Carne roșie
+item.steak Vită
+item.red_mushroom_item Ciupercă roșie
+item.glowing_mushroom_item Ciupercă luminoasă
+item.magnet Magnet
+item.magnet.desc Atrage obiecte de la 4 metri distanță.
+item.scuba_helmet Cască de scafandru
+item.scuba_helmet.desc Face respirația subacvatică posibilă.
+item.curse_of_core Blestemul Miezului
+item.curse_of_core.desc Poate cauza durere și suferință.
+item.cosmic_radiation Radiație cosmică
+item.cosmic_radiation.desc May cause bitflips.
+item.paint_roller Rolă de vopsea
+item.paint_roller_earthy Rolă de vopsea (Paletă Pământie)
+item.paint_roller_pastel Rolă de vopsea (Paletă Pastelată)
+item.wallpaper Tapet
+item.wallpaper.desc Poate fi aplicat numai pe pereți din gips
+item.permafrost Permafrost
+item.cobalt_ore Minereu de cobalt
+item.amethyst_ore Ametist
+item.sapphire_ore Safir
+item.diamond_ore Diamant
+item.cobalt_plated_stone Piatră placată cu cobalt
+item.alpha_shop Magazin Alfa
+item.alpha_shop.desc (O să fie șters după ce NPC-urile o să fie introduse)
+item.white_torch Torță albă
+item.ice_crate Cutie din gheață
+item.ice_chest Cufăr din gheață
+item.table Masă
+item.chair Scaun
+item.basic_lamp Lampă
+item.snow_dungeon_bricks Cărămizi de temniță din zăpadă
+item.snow_dungeon_lamp Lampă de temniță din zăpadă
+item.pressure_plate_small Placă mică de presiune
+item.icycle Icycle
+item.switch Întrerupător
+item.cobalt_bars Bare de cobalt
+item.drywall Placă de gips
+item.cotton_candy Vată de zahăr
+item.amethyst_block Bloc de ametist
+item.sapphire_block Bloc de safir
+item.diamond_block Bloc de diamant
+item.mint_seed Semințe de mentă
+item.painting_blue Tablou (Albastru)
+item.painting_city Tablou (Oraș)
+item.painting_desolate Tablou (Dezolant)
+item.painting_figure Tablou (Figură)
+item.painting_bird Tablou (Pasăre)
+item.painting_undergrowth Tablou (Mărăciniș)
+item.structure_save Salvează structura
+item.structure_load Încarcă structura
+item.structure_latch Blochează structura
+item.structure_marker Marchează structura
+item.structure_noreplace Structură neînlocuibilă
+item.fluid.empty Lichid vid
+item.fluid.water Apă
+item.fluid.lava Lavă
+item.raygun_death Armă al morții instantanee
+item.ice_torch Torță de gheață
+item.arcade_carpet Covor arcadă
+item.painting_snowman Tablou (Om de zăpadă)
+item.big_snowball Bulgăre de zăpadă gigantic
+item.big_snowball.desc Vrei să construiești un om de zăpadă?
+item.snow_boss_base Bază boss de zăpadă
+item.evil_tophat Joben diabolic
+item.evil_tophat.desc 
+
+item_tag.can_place Plasabil
+item_tag.can_consume Consumabil
+item_tag.axe_power Putere de topor
+item_tag.pickaxe_power Putere de târnăcop
+item_tag.swing_speed Timp de revenire
+item_tag.hammer Ciocan
+item_tag.cant_mine Nu poate mina
+item_tag.restores_health Refacerea vieții
+item_tag.melee_damage Puterea brută
+item_tag.defence Apărare
+item_tag.required_ammo Muniție necesară
+item_tag.ammo Muniție
+item_tag.ranged_damage Puterea de la distanță
+item_tag.trinket Amuletă
+item_tag.can_block Poate bloca
+item_tag.knockback Împingere
+
+settings.field_of_view Câmp vizual
+settings.max_fps FPS-uri maxime
+settings.render_distance Distanță de randare
+settings.mouse_sensitivity Sensibilitatea mouse-ului
+settings.master_volume Volum principal
+settings.max_mesh_threads Număr maxim de thread-uri pentru mesher
+settings.max_mesh_uploads Încărcări maxime de mesh (pe cadru)
+settings.show_control_hints Afișează sugestii pentru controale
+settings.auto_scale_ui Scalare automată UI
+settings.manual_ui_scale Scalare manuală UI
+settings.world_volume Volumul lumii
+settings.music_volume Volumul muzicii
+settings.ui_volume Volum UI/Jucător
+settings.ambient_volume Volum ambiental
+settings.autosave_interval Interval de autosalvare (În Minute)
+settings.autosave_enabled Se autosalvează...
+settings.autosave_indicator Indicator de Autosalvare
+settings.panicsave_enabled Creează o copie de salvare în cazul unei erori de joc
+settings.view_bobbing Mișcarea Capului (Perspectivă)
+settings.screen_shake Mișcarea Ecranului 
+settings.allow_noclip Permite Noclip
+settings.allow_infinite_item Obiecte infinite
+settings.allow_creative_menu Permite meniu creativ
+settings.allow_godmode Mod invincibil
+settings.mob_spawning Generarea monștrilor
+
+settings_category.video Video
+settings_category.audio Audio
+settings_category.controls Controale
+settings_category.misc Diverse
+settings_category.keybinds Configurarea tastaturii
+settings_category.cheats Coduri (Cheat-uri)
+
+control_hint.open_inventory Deschide inventarul
+control_hint.close_inventory Închide inventarul
+control_hint.close_menu Închide meniul
+control_hint.split_stack Împarte stiva (stack)
+control_hint.take_stack Ia stiva (stack)
+control_hint.drop_one Aruncă unul
+control_hint.drop_stack Aruncă stiva (stack)
+control_hint.craft_one Confecționează unul
+control_hint.toggle_creative Comută modul creativ
+control_hint.use Folosește
+control_hint.use_item Folosește obiectul
+control_hint.place_item Plasesază obiectul
+control_hint.punch Lovește
+control_hint.unequip Echipează
+control_hint.equip Îndepărtează
+control_hint.change_shape Modifică forma
+control_hint.show_recipes Arată rețete
+
+keybind.move_forward Mergi în față
+keybind.move_backward Mergi în spate
+keybind.move_left Mergi la stânga
+keybind.move_right Mergi la dreapta
+keybind.fly_down Zboară sus
+keybind.fly_up Zboară jos
+keybind.jump Sari
+keybind.noclip Noclip
+keybind.place Pleasează / Folosește
+keybind.punch Lovește
+keybind.place_modifier Modifică plasarea
+keybind.open_inventory Deschide inventarul
+keybind.toggle_creative_menu Comută meniul creativ
+keybind.drop_item Aruncă obiect
+keybind.drop_modifier Drop Item Modifier
+keybind.pause Pauză
+keybind.ui_confirm UI Confirmă
+keybind.ui_secondary UI Secundar
+keybind.toggle_debug Activează meniul Overlay
+keybind.toggle_profiler Activarea overlay profiler
+keybind.toggle_fullscreen Comută ecran fullscreen
+keybind.ui_up UI Sus
+keybind.ui_down UI Jos
+keybind.ui_left UI Stânga
+keybind.ui_right UI Dreapta
+keybind.hotbar1 Hotbar Poziția 1
+keybind.hotbar2 Hotbar Poziția 2
+keybind.hotbar3 Hotbar Poziția 3
+keybind.hotbar4 Hotbar Poziția 4
+keybind.hotbar5 Hotbar Poziția 5
+keybind.hotbar6 Hotbar Poziția 6
+keybind.hotbar7 Hotbar Poziția 7
+keybind.hotbar8 Hotbar Poziția 8
+keybind.hotbar9 Hotbar Poziția 9
+keybind.hotbar10 Hotbar Poziția 10
+keybind.hotbar11 Hotbar Poziția 11
+keybind.hotbar12 Hotbar Poziția 12
+keybind.open_chat Deschide Chat-ul
+keybind.send_chat Trimite un mesaj
+keybind.toggle_hud Comută HUD
+keybind.take_screenshot Creează un Screenshot
+keybind.open_radial Deschide meniul radial
+keybind.sneak Mergi tiptil
+keybind.sprint Fugi
+keybind.show_use Arată utilitatea obiectelor
+keybind.show_recipe Arată rețetarul obiectelor
+keybind.pick_block Alege blocul
+keybind.scroll_up Glisează în sus
+keybind.scroll_down Glisează îm jos
+keybind.favourite_item Obiecte favorite
+
+
+ammo.arrow Săgeată
+ammo.rock Piatră
+ammo.bullet Glonț
+ammo.snowball Bulgăre de zăpadă
+
+effect.poison Otrăvit
+effect.desc.poison Provoacă daune în timp.
+effect.regen Regenerare
+effect.desc.regen Te vindeci treptat.
+effect.wet Umed
+effect.desc.wet Ești ud complet.
+effect.slowfall Cădere lentă
+effect.desc.slowfall Cazi lent și nu ești afectat de căzătură.
+effect.fire Incendiat
+effect.desc.fire Arzi!!!
+effect.healcooldown Vindecat recent
+effect.desc.healcooldown Trebuie să mai aștepți până să te vindeci din nou.
+effect.freezing Îngheți
+effect.desc.freezing Gerul îți afectează viața.
+effect.fast Rapid
+effect.desc.fast Te poți mișca rapid.
+effect.slow Încet
+effect.desc.slow Te miști încet.
+effect.anchored Ancorat
+effect.desc.anchored Ești ancorat într-un loc.
+effect.frozen Înghețat
+effect.desc.frozen Ești înghețat și nu poți face nimic cu privire la asta!
+effect.watched Urmărit
+effect.desc.watched Ochii din umbră...
+effect.flight Zbor
+effect.desc.flight Permite câteva secunde de zbor
+effect.regen_potion Regenerare (Poțiune)
+effect.desc.regen_potion Îți refaci viața ușor.
+effect.armoured Protejat
+effect.desc.armoured Protecția ta a crescut cu 4 puncte.
+
+effect.concussion Lovit la cap
+effect.desc.concussion Au! Te miști încet.
+effect.snack Gustărică
+effect.desc.snack Ai mâncat o gustărică. Atributele au crescut puțin.
+effect.small_meal Porție mică
+effect.desc.small_meal Ai mâncat o porție mică. Atributele au crescut puțin.
+effect.webbed Legat de pânză
+effect.desc.webbed Ești prins într-o pânză de păianjen.
+
+
+
+effect.fast_mining Minare rapidă
+effect.desc.fast_mining Crește viteza minatului.
+
+crafting_station.inventory Manual
+crafting_station.work_bench Post de lucru
+crafting_station.furnace Cuptor
+crafting_station.anvil Nicovală
+crafting_station.decorations Post de decorații
+crafting_station.potions Post de poțiuni
+
+loading.tip0 Inamicii vor apărea numai pe blocuri generate natural.
+loading.tip1 Apasă 'R' pentru a vedea rețetarul unui obiect.
+loading.tip2 Ține apăsat 'R' în timp ce ții un bloc pentru a schimba forma acestuia.
+loading.tip3 Recoltele pot suferi mutații dacă lași terenul agricol gol. 
+loading.tip4 Ai grijă la capcane în subteran și prin temnițe.
+loading.tip5 Poți plasa șine cu susul în jos și pe pereți.
+loading.tip6 Torțele nu previn apariția monștrilor în subteran.
+loading.tip7 Folosește un Respawn Pointer pentru a seta punctul tău de apariție.
+loading.tip8 Folosește poțiuni de întoarcere pentru a te întoarce acasă dacă te-ai rătăcit.
+loading.tip9 Apasă CTRL pe obiecte pentru a le trimite la coșul de gunoi.
+loading.tip10 Poți stivui automat obiectele în cuferele din apropiere.
+loading.tip11 Îți poți sorta inventarul.
+loading.tip12 Unele arme pot bloca atacul unor inamici.
+loading.tip13 Folosește postul de decorații pentru a face multe obiecte mișto.
+loading.tip14 Make tools using flint rocks and a Workbench. Confecționează unele folosind cremene și un post de lucru.
+loading.tip15 Un târnăcop puternic poate săpa oriunde.
+loading.tip16 Câteodată este o idee bună să sapi în jos.
+loading.tip17 Dacă găsești un bug, te rog raportează-l pe comunitatea noastră de Discord.
+loading.tip18 Ai o părere? Alătură-te comunității noastre de Discord și completează formularul de feedback.
+loading.tip19 Durabilitatea unei unelte nu este reală și nu te poate răni!
+loading.tip20 Dacă lași buruieni să crească în grădina ta, ele o să aibă parte de mutații.
+loading.tip21 Apasă F11 pentru a comuta la ecran fullscreen.
+loading.tip22 Jucând baschet în timpul unei bătălii cu un boss poate fi benefic.
+loading.tip23 Inimioarele pot fi folosite la creșterea nivelului maxim al vieții.
+loading.tip24 Săgețile explozive sunt periculoase în bătălii la apropiere.
+
+colour.clear Transparent
+colour.white Alb
+colour.grey Gri pal
+colour.dark_grey Gri întunecat
+colour.black Negru
+colour.red Roșu
+colour.orange Portocaliu
+colour.yellow Galben
+colour.lime Verde aprins
+colour.green Verde
+colour.turqoise Turcoaz
+colour.blue Albastru
+colour.dark_blue Bleumarin
+colour.purple Mov
+colour.pink Roz
+colour.light_pink Roz pal
+colour.brown Maro
+colour.algae Verde-albăstrui
+colour.moss Kaki
+colour.forest Pădure
+colour.ocean Ocean
+colour.mud Noroi
+colour.clay Cărămiziu
+colour.sand Nisip
+colour.powder Praf
+colour.none Niciunul
+colour.orange_sherbet Portocaliu crem
+colour.lemon_yellow Galben aprins
+colour.pale_yellow Galben pal
+colour.mint Verde deschis
+colour.baby_blue Albastru pastel
+colour.lavender Lavandă
+colour.pastel_pink Roz pastel
